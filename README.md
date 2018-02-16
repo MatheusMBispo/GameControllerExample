@@ -14,7 +14,7 @@ Repositório desenvolvido por:
 * João Vitor
 * Matheus Bispo
 
-Sobre a tutoria de Marcos Morais, na Apple Developer Academy UCB.
+Tutoria de Marcos Morais, desenvolvido na Apple Developer Academy UCB.
 
 ## O que é?<a name="introduction"></a>
 
