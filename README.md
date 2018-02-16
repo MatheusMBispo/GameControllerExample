@@ -17,7 +17,7 @@ Sobre a tutoria de Marcos Morais, na Apple Developer Academy UCB.
 
 ## O que é?<a name="introduction"></a>
 
-É uma framework especializada em controles, desenvolvida pela Apple.Os controles que essa framework suporta são:
+É uma framework, desenvolvida pela Apple, cujo o objetivo é facilitar a implatação de controles (Joystick, Gamepad, etc) em aplicações(incluindo Games) feitos em swift ou objective-c.
 
 ## Controles Suportados <a name="controls"></a>
 
