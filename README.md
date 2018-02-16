@@ -24,9 +24,11 @@ Sobre a tutoria de Marcos Morais, na Apple Developer Academy UCB.
 - **MicroGamepad**: 
 
 <img src="http://christophersharpe.com/wp-content/uploads/2015/11/remote-and-interaction-remote-diagram_2x.png" width="400" height="200">
+
 - **Gamepad**:
 
 <img src="https://docs-assets.developer.apple.com/published/0ad54e429b/featuresHIDGameControllerStandardFormFittingSample_2x_8be6fc5b-c612-44c8-bfaa-5d90c27f3865.png" width="400" height="200">
+
 - **ExtendedGamepad**:
 
 <img src="https://docs-assets.developer.apple.com/published/f73ea162f0/featuresHIDGameControllerExtendedNonFormFittingSample_2x_d94fb0b8-6cfc-4095-bfdd-3403b15445bb.png" width="300" height="300">
