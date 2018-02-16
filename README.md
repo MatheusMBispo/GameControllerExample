@@ -3,7 +3,8 @@
 1. [O que é?](#introduction)
 2. [Quais os controles suportados?](#controls)
 4. [Tutorial Rápido](#tutorial)
-5. [Fontes](#fontes)
+5. [Exemplo](#exemplo)
+6. [Fontes](#fontes)
 
 Repositório desenvolvido por:
 * Afonso Lucas
@@ -93,6 +94,9 @@ Para cada botão do controle é preciso configurar uma ação, para isso usamos 
         NotificationCenter.default.removeObserver(OUTRA_VARIAVEL_OBSERVER)
 ```
 
+## Exemplo <a name="exemplo"></a>
+
+Segue no repositório um exemplo de implatação de controles micro, standart e extended Gamepad, tanto no iOS quanto no tvOS.
 
 ## Fontes <a name="fontes"></a>
 
