@@ -2,9 +2,9 @@
 
 1. [O que é?](#introduction)
 2. [Quais os controles suportados?](#controls)
-4. [Tutorial Rápido](#tutorial)
-5. [Exemplo](#exemplo)
-6. [Fontes](#fontes)
+3. [Tutorial Rápido](#tutorial)
+4. [Exemplo](#exemplo)
+5. [Fontes](#fontes)
 
 Repositório desenvolvido por:
 * Afonso Lucas
@@ -41,6 +41,12 @@ Tutoria de Marcos Morais, desenvolvido na Apple Developer Academy UCB.
 Para o funcionamento da framework não se esqueça de importar:
 ```swift
 import GameController
+```
+
+#### Procure os Controles
+
+```swift
+        GCController.startWirelessControllerDiscovery { COMPLETION }
 ```
 
 #### Configure os observers
